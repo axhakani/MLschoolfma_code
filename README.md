@@ -1,7 +1,9 @@
 # Machine Learning Video Classifier
 
-This is the code for the TicTacToe programm done with machine learning, p5.js and KNN for School of Machine project.
+This is the code for the FakeTicTacToe programm done with machine learning, p5.js and KNN for School of Machine project.
 
+This is how you train your machine throught the camera with your own examples of >O and >I (cannot make an X with one hand)
+and the machine recognizes your inputs by classifying them in two categories, using a json file for the dataset.
 
 
 You need to execute the code inside the folder's terminal with the command:
